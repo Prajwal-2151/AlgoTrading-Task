@@ -1,0 +1,6 @@
+timestamp,source,instrument,price,currency,notes
+2025-08-12T10:46:07.157405+00:00,MetalpriceAPI,XAU/USD,3387.759956,USD,Gold Spot (MetalpriceAPI)
+2025-08-12T10:52:12.102483+00:00,MetalpriceAPI,XAU/USD,3387.759956,USD,Gold Spot (MetalpriceAPI)
+2025-08-12T10:52:12.102483+00:00,MCX_Bhavcopy,MCX Gold Futures,100322,INR,Bhavcopy
+2025-08-12T11:00:15.898835+00:00,MetalpriceAPI,XAU/USD,3387.759956,USD,Gold Spot (MetalpriceAPI)
+2025-08-12T11:00:15.898835+00:00,MCX_Bhavcopy,MCX Gold Futures,100322,INR,Bhavcopy
